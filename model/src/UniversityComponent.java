@@ -1,4 +1,4 @@
-package lab3.model;
+package lab4.model;
 
 public abstract class UniversityComponent {
     private String name;
