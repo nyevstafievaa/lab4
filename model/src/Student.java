@@ -1,4 +1,4 @@
-package lab3.model;
+package lab4.model;
 
 public class Student extends Human {
     private Group group;
